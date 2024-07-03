@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
        int a=5;
        int b=9;
-       System.out.println(a+b);
+       System.out.println("this is the sum"+ a+b);
 
     }
 }
